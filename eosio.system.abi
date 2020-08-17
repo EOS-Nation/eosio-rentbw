@@ -2085,7 +2085,7 @@
         {
             "name": "rentbw",
             "type": "rentbw",
-            "ricardian_contract": ""
+            "ricardian_contract": "---\nspec_version: \"0.2.0\"\ntitle: Rent resources\nsummary: 'User may rent resources'\nicon: https://raw.githubusercontent.com/EOS-Nation/eosio-rentbw/master/contracts/icons/resource.png#3830f1ce8cb07f7757dbcf383b1ec1b11914ac34a1f9d8b065f07600fa9dac19\n---\n\nUsers may use the rentbw action to rent resources."
         },
         {
             "name": "rentbwexec",
