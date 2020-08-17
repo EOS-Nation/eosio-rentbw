@@ -22,7 +22,7 @@
 
 * On-Chain: Any transaction, smart contract, or Ricardian contract which is located within a block that is irreversible and appended to the EOS blockchain `chain_id`.
 
-* EOS-based Property: Anything that requires a valid permission in order to directly manipulate, alter, transfer, influence, or otherwise effect on the EOS Blockchain
+* EOS-based Property: Anything that requires a valid permission in order to directly manipulate, alter, transfer, influence, or otherwise effect on the EOS Blockchain 
 
 * Call: To submit an action to the EOS Blockchain `chain_id`.
 
@@ -30,7 +30,7 @@
 
 * Ricardian Contract: A contract that places the defining elements of a legal agreement in a format that can be expressed and executed in software.
 
-## Article I -  User Acknowledgement of Risks
+## Article I -  User Acknowledgement of Risks 
 If User loses access to their EOS account on `chain_id` and has not taken appropriate measures to secure access to their EOS account by other means, the User acknowledges and agrees that that EOS account will become inaccessible. Users acknowledge that the User has an adequate understanding of the risks, usage and intricacies of cryptographic tokens and blockchain-based software. The User acknowledges and agrees that the User is using the EOS blockchain at their sole risk.
 
 ## Article II - Special User Types
@@ -46,22 +46,22 @@ Any modifications to the *EUA* and *governing documents* may be made by `eosio.p
 The native unit of value on EOS chain_id shall be the EOS token as defined and created by the `eosio.token` smart contract.
 
 ## Article VI - Maintaining the EOS blockchain
-`eosio.prods` will maintain the active blockchain codebase which includes, but is not limited to, the implementation of all modifications of all features, optimizations, and upgrades: present and future.
+`eosio.prods` will maintain the active blockchain codebase which includes, but is not limited to, the implementation of all modifications of all features, optimizations, and upgrades: present and future. 
 
 ## Article VII - Network Funds
 It is admonished that any altering of the state of any tokens contained within network fund accounts, or altering any pre-existing code that directly or indirectly governs the allocation, fulfillment, or distribution of any *network funds* be preceded by a statement crafted and issued by `eosio.prods` to the *eosio.forum* referendum system contract describing the effect in advance.
 
 ## Article VIII - Freedom of Account Creation
-Any current or future User is able to create an EOS Account without the permission by any other User. `eosio.prods` may never affect an EOS User Account(s) without valid permission(s) which have been shared with `eosio.prods` by an EOS account. `eosio.prods` may charge a fee for any actions that are requested by other Users pertaining to an EOS account where permissions are shared.
+Any current or future User is able to create an EOS Account without the permission by any other User. `eosio.prods` may never affect an EOS User Account(s) without valid permission(s) which have been shared with `eosio.prods` by an EOS account. `eosio.prods` may charge a fee for any actions that are requested by other Users pertaining to an EOS account where permissions are shared. 
 
 ## Article IX - No Fiduciary
 No User shall have a fiduciary purpose to support the value of the EOS token. No User can authorize anyone to hold assets, borrow, speak, contract on behalf of other EOS Users or the EOS blockchain `chain_id` collectively. This EOS blockchain shall have no owners, managers, or fiduciaries.
 
 ## Article X - User Security
-All items pertaining to personal account security, including but not limited to the safekeeping of private keys, is solely the responsibility of the User to secure.
+All items pertaining to personal account security, including but not limited to the safekeeping of private keys, is solely the responsibility of the User to secure. 
 
 ## Article XI - `eosio.prods` Limited Liability
-The User acknowledges and agrees that, to the fullest extent permitted by any applicable law, this disclaimer of liability applies to any and all damages or injury whatsoever caused by or related to risks of, use of, or inability to use, the EOS token or the EOS blockchain `chain_id` under any cause of action whatsoever of any kind in any jurisdiction, including, without limitation, actions for breach of warranty, breach of contract or tort (including negligence) and that `eosio.prods`, nor the individual permissions that operate it, shall not be liable for any indirect, incidental, special, exemplary or consequential damages, including for loss of profits, goodwill or data.
+The User acknowledges and agrees that, to the fullest extent permitted by any applicable law, this disclaimer of liability applies to any and all damages or injury whatsoever caused by or related to risks of, use of, or inability to use, the EOS token or the EOS blockchain `chain_id` under any cause of action whatsoever of any kind in any jurisdiction, including, without limitation, actions for breach of warranty, breach of contract or tort (including negligence) and that `eosio.prods`, nor the individual permissions that operate it, shall not be liable for any indirect, incidental, special, exemplary or consequential damages, including for loss of profits, goodwill or data. 
 
 # EOS 사용자 동의서
 
