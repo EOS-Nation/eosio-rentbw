@@ -14,6 +14,10 @@
 
 ## Checksum
 
+Branch `rentbw-1.9` (last commit `5aa8d1cc17`)
+
+https://github.com/EOSIO/eosio.contracts/tree/rentbw-1.9
+
 ```bash
 $ shasum -a 256 eosio.system.wasm
 
